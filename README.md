@@ -1,1 +1,1 @@
-# DAMG-PROJECT
+# E-Commerce-Database- model
