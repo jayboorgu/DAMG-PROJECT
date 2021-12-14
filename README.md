@@ -9,7 +9,8 @@ Our data model includes exclusive offerings and profitable predictions for busin
 Data model is helpful for many internal teams in making strategies to increase customer base and improve customer retention and overall experience.
 
 # Database Implementation  
-Database creation contains 12 entities and 3 associative entities with multiple check constraints and key constraints. 
+Database creation contains 12 entities and 3 associative entities with multiple check constraints and key constraints.
+
 Stored Procedures, Views, Triggers and Encryptions are implemented on the database.
 
 # Tableau Dashboard
